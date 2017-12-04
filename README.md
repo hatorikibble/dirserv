@@ -11,4 +11,5 @@ small webserver for serving directories written in go
 
 # Example
 
-./dirserv --dir=/tmp/html_files --port=8080
+    $ ./dirserv --dir=/tmp/html_files --port=8080
+    2017/12/04 22:03:31 Serving directory '/tmp/html_files' on port 8080

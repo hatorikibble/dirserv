@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/hatorikibble/dirserv)](https://goreportcard.com/report/github.com/hatorikibble/dirserv)
 # dirserv
 small webserver for serving directories written in go
 
